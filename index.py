@@ -16,6 +16,6 @@ def roman_to_int(s):
     return result
 
 # Example usage:
-roman_numeral = "XX"
+roman_numeral = "XI"
 integer_value = roman_to_int(roman_numeral)
 print(f"The integer value of {roman_numeral} is {integer_value}")
